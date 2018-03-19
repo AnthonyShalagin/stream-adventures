@@ -1,0 +1,25 @@
+{
+  "name": "stream-adventure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "lint": "eslint .", 
+    "fix: eslint . --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyShalagin/stream-adventures.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnthonyShalagin/stream-adventures/issues"
+  },
+  "homepage": "https://github.com/AnthonyShalagin/stream-adventures#readme",
+  "devDependencies": {
+    "eslint": "^4.19.0",
+    "eslint-config-cloudreach": "^1.0.0"
+  }
+}
